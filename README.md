@@ -1,8 +1,6 @@
 # Mall-Customer-Segmentation
 # Customer Segmentation Analysis
 
-![Cluster Visualization](https://i.imgur.com/JfZq3zD.png)
-
 ## Overview
 This project performs customer segmentation using K-Means clustering on the [Mall Customers Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) from Kaggle. It identifies distinct customer groups based on spending behavior and demographics.
 
